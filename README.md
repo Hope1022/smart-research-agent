@@ -37,4 +37,4 @@ python -u "smart_research_agent/main.py"
 ## Notes
 
 - Adjust configuration or API keys inside the project files as needed.
-- If you want, I can add a `requirements.txt` and example config next.
+
