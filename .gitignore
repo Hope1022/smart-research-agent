@@ -1,0 +1,25 @@
+# environment variables — never push API keys
+.env
+notes.DOCX
+
+# sqlite database — no need to push this
+*.db
+
+# python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual environment folder
+venv/
+.venv/
+env/
+
+# vscode settings
+.vscode/
+
+# windows junk files
+Thumbs.db
+desktop.ini
+
+.DOCX

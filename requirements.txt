@@ -1,0 +1,7 @@
+python-dotenv
+SQLAlchemy
+google-search-results
+langchain-core
+langchain-community
+langchain-groq
+langgraph
