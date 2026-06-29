@@ -46,7 +46,7 @@ result = graph.invoke({
 4. Save the report using save_report with the topic, summary, and sources
 
 Always search first before writing anything."""),
-        ("human", "who is abiy ahmed?")
+        ("human", "who is ronaldo?")
     ]
 })
 
